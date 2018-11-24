@@ -1,0 +1,16 @@
+PODS:
+  - iOSGradientView (0.1.0)
+
+DEPENDENCIES:
+  - iOSGradientView (from `../`)
+
+EXTERNAL SOURCES:
+  iOSGradientView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSGradientView: a828b133915b50872f5edd1061161a8ac3b67167
+
+PODFILE CHECKSUM: e0332a473cbaec87ca80bdac5dab4f4420624eed
+
+COCOAPODS: 1.4.0
