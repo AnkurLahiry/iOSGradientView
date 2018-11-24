@@ -22,7 +22,7 @@ pod 'iOSGradientView'
 
 ## Author
 
-AnkurLahiry, ankur.lahiry@ipay.com.bd
+AnkurLahiry, alahiry098@gmail.com
 
 ## License
 
